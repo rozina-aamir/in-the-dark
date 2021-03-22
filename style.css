@@ -1,26 +1,10 @@
-body{
+body, h1, p, pre, li{
   font-family: Courier, monospace;
   background-color: #000000;
-}
-
-h1 {
-  color: #000000;
-}
-
-p {
-  color: #000000;
-}
-
-pre {
-  color: #000000;
 }
 
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
-}
-
-li {
-  color: #000000;
 }
