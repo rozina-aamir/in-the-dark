@@ -1,4 +1,4 @@
-body, h1, p, pre, li{
+body{
   font-family: Courier, monospace;
   background-color: #000000;
 }
@@ -7,4 +7,11 @@ ul {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+h1, p, pre, li{
+  font-family: Courier, monospace;
+  font-size: 18pt;
+  font-weight: normal;
+  color: #000000;
 }
